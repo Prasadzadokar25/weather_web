@@ -1,6 +1,6 @@
 {
-    "name": "weather_app_youtube",
-    "short_name": "weather_app_youtube",
+    "name": "wether_report_api",
+    "short_name": "wether_report_api",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
